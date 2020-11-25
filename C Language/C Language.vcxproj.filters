@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T 2020 1018E.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T 2020 1019F.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T 2020 1020.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T 2020 1019e.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T 2020 1020a.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1020 E1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1020 E2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1020 E3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1020 E5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1020 E4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1021 W3 E1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1021 W3 E2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1021 W3 E3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T 2020 1021.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T 2020 1021a.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T 2020 1023.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T 2020 1023 A.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1026 Cpp 17E9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1026 Cpp 19E10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1027 W3 E4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1027 W3 E5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1027 W3 E6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1027 W3 E7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="E 2020 1028 Cpp 37E4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="E 2020 1028 Cpp 38 E5 1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="E 2020 1028 Cpp 37E3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1028 E1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1028 E2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1028 E3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1028 E4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1028 W3 E7 Otimized.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1030 W3 E6 fixed.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1103 W3 E8.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1103 W3 E9.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1103 W3 E10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1103 W3 E11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1104 E1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1104 Cpp E1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1104 Cpp E2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1104 E3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1104 E for test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1109 C4 E1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1109 C4 E2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1109 C4 E3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1109 C4 E4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1111 E1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1111 TE1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1111 Cpp 81 E14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1111 Cpp 81 E15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1111 TE2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1111 TE3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1112 TE4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1110 C4 E4 Otimized.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1117 C4 E6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1117 C4 E7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1117 C4 E5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TSE.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1118 E1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1118 Cpp TSE 3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1118 TSE 2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1118 E2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1118 E3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1118 E4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1118 E5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1122 TSE.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1123 C5 E1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1123 C5 E2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1123 C5 E3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1124 C5 E4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1125 Gcd Gbs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1125 122E2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EH 2020 1125 E3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="H 2020 1125 E2 Otimized.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
